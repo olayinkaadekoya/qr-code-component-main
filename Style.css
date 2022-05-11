@@ -1,0 +1,28 @@
+body{
+   
+    background-color:hsl(220, 15%, 55%);
+    font-family: "https://fonts.google.com/specimen/Outfit";
+    justify-content: center;
+}
+p.first{
+    font-size: 15px;
+    color: darkblue;
+    text-align: center;
+}
+p.second {
+    font-size: 15px;
+    text-align:center;
+    color:lightgrey;
+}
+.img {
+    width: 95%;
+border-radius: 5%;
+}
+.div{ 
+    margin: 2% 35%;
+    background-color: hsl(0, 0%, 100%);
+    width: 30% ;
+    text-align: center;
+    padding: 2% 1%;
+    border-radius: 5%;
+}
